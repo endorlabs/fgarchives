@@ -1,0 +1,1 @@
+https://burtleburtle.net/bob/c/lookup3.c
