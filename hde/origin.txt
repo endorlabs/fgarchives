@@ -1,0 +1,2 @@
+http://www.patkov-site.narod.ru/download/hde.zip
+via https://github.com/danielga/detouring/tree/master/hde
