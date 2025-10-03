@@ -1,0 +1,1 @@
+https://www.nic.funet.fi/pub/crypt/hash/sha/sha1.c
